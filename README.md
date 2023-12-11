@@ -2,5 +2,5 @@
 devfinder e um desafio da plataforma Frontend Mentor ,usando API do proprio github
 
 <div>
-  <img src="">
+  <img src="./images/perfil.png">
 </div>
